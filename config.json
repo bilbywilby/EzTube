@@ -1,0 +1,13 @@
+{
+    "download_dir": "~/Downloads",
+    "max_workers": 4,
+    "default_format": "bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4",
+    "default_resolution": "best",
+    "default_audio_format": "mp3",
+    "include_metadata": true,
+    "extract_thumbnail": true,
+    "theme": "DarkBlue",
+    "use_ffmpeg": false,
+    "auto_queue": false,
+    "show_advanced": false
+}
